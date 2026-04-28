@@ -1,16 +1,107 @@
-## Hi there 👋
+# Hi 👋, I'm Abdelrahman Atef
 
-<!--
-**Abdelrahman0Atef/Abdelrahman0Atef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Software Engineer (Flutter) | 2+ years building scalable mobile applications in E-commerce, Healthcare & HR systems  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=54C5F8&center=true&vCenter=true&width=800&lines=Dart+·+Flutter+·+Bloc+·+Clean+Architecture+·+REST+APIs+·+GraphQL" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=abdelrahman0atef&label=Profile%20views&color=0d1117&style=for-the-badge" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdelrahman0atef&theme=tokyonight&no-frame=true&row=1&margin-w=10" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- Flutter Developer focused on building scalable production apps  
+- Experience in **E-commerce, Healthcare, HR systems**  
+- Passionate about **Clean Architecture & scalable codebases**  
+- State management with **Bloc**  
+- Working with **REST APIs & GraphQL**
+
+---
+
+## 📂 Projects
+
+- All projects available here:  
+👉 https://github.com/Abdelrahman0Atef
+
+---
+
+## 📝 Articles
+
+- LinkedIn:  
+👉 https://linkedin.com/in/abdelrahmanatefdarwish
+
+---
+
+## 📫 Contact Me
+
+- Email: **abdelrahman.a.darwish.3@gmail.com**
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/abdelrahmanatefdarwish)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:abdelrahman.a.darwish.3@gmail.com)
+
+---
+
+## 🛠️ Tech Stack
+
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=54C5F8)
+![Dart](https://img.shields.io/badge/Dart-0D1117?style=for-the-badge&logo=dart&logoColor=00B4AB)
+
+---
+
+### 🧠 Software Engineering
+- Data Structures & Algorithms  
+- Object-Oriented Programming (OOP)  
+- Design Patterns  
+- Clean Architecture  
+- SOLID Principles  
+
+---
+
+### 🔗 Backend & APIs
+![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![REST API](https://img.shields.io/badge/REST%20API-0D1117?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-0D1117?style=for-the-badge&logo=graphql&logoColor=E10098)
+
+---
+
+### 🧰 Tools & Workflow
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05033)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff)
+![GitLab](https://img.shields.io/badge/GitLab-0D1117?style=for-the-badge&logo=gitlab&logoColor=FC6D26)
+![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Jira](https://img.shields.io/badge/Jira-0D1117?style=for-the-badge&logo=jira&logoColor=0052CC)
+![Slack](https://img.shields.io/badge/Slack-0D1117?style=for-the-badge&logo=slack&logoColor=4A154B)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abdelrahman0atef&theme=tokyonight&hide_border=true" width="60%"/>
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abdelrahman0atef&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="36.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman0atef&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## ⚡ Quote
+
+**⚡ “Think like an engineer, build like a craftsman.”**
