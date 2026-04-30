@@ -1,6 +1,6 @@
 # Hi 👋, I'm Abdelrahman Atef
+### 🚀 Software Engineer (Flutter) | 3+ years building scalable mobile applications in E-commerce, Healthcare & HR systems  
 
-### 🚀 Software Engineer (Flutter) | 2+ years building scalable mobile applications in E-commerce, Healthcare & HR systems  
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=6B7280&center=true&vCenter=true&width=800&lines=Dart+·+Flutter+·+Bloc+·+Clean+Architecture+·+REST+APIs+·+GraphQL" />
 </p>
@@ -22,7 +22,6 @@
 ---
 
 ## 👨‍💻 About Me
-
 - Flutter Developer focused on building scalable production apps  
 - Experience in **E-commerce, Healthcare, HR systems**  
 - Passionate about **Clean Architecture & scalable codebases**  
@@ -31,28 +30,47 @@
 
 ---
 
-## 📂 Projects
+## 🌟 Portfolio Website
 
+<p align="center">
+  <a href="https://abdelrahman0atef.github.io/portfolio_web/">
+    <img src="https://img.shields.io/badge/🌐_Live_Portfolio-View_Site-7CFFC4?style=for-the-badge&labelColor=111827" />
+  </a>
+</p>
+
+A single place that brings together my work, experience, and the projects I've shipped — built with Flutter Web.
+
+**👉 [abdelrahman0atef.github.io/portfolio_web](https://abdelrahman0atef.github.io/portfolio_web/)**
+
+What you'll find inside:
+- **About me** — A quick introduction and my background
+- **Experience** — Where I've worked and what I've contributed
+- **Projects** — Apps I've shipped, with screenshots and store links
+- **Skills** — The tools and technologies I work with
+- **Contact** — The fastest ways to reach me
+
+---
+
+## 📂 Projects
 - All projects available here:  
 👉 https://github.com/Abdelrahman0Atef
 
 ---
 
 ## 📝 Articles
-
 - LinkedIn:  
 👉 https://linkedin.com/in/abdelrahmanatefdarwish
 
 ---
 
 ## 📫 Contact Me
-
-- Email: **abdelrahman.a.darwish.3@gmail.com**
+- Email: **[abdelrahman.a.darwish.3@gmail.com](mailto:abdelrahman.a.darwish.3@gmail.com)**
 
 ---
 
 ## 🌐 Connect With Me
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=7CFFC4)](https://abdelrahman0atef.github.io/portfolio_web/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/abdelrahmanatefdarwish)
 [![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:abdelrahman.a.darwish.3@gmail.com)
 
@@ -107,5 +125,4 @@
 ---
 
 ## ⚡ Quote
-
-**⚡ “Think like an engineer, build like a craftsman.”**
+**⚡ "Think like an engineer, build like a craftsman."**
